@@ -25,3 +25,9 @@ npm run dev
 ```
 
 The `npm run dev` command uses `nodemon` to watch for changes and restarts your TypeScript project every time you save (Ctrl + S).
+
+5. To run the Jest tests, issue the `npm run test` command.
+
+```bash:shell
+npm run test
+```
